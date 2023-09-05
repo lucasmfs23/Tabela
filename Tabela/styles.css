@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
+.azule{
+    border-radius: 10px;
+    background-color: royalblue;
+}
+.ciano{   
+    border-radius: 10px;
+    background-color: cyan;
+}
+.verdel{
+    border-radius: 10px;
+    background-color: green;
+}
+.verde{
+    border-radius: 10px;
+    background-color: greenyellow;
+}
+.laranja{
+    border-radius: 10px;
+    background-color: orange;
+}
+.rosac{
+    border-radius: 10px;
+    background-color: pink;
+}
+.rosae{
+    border-radius: 10px;
+    background-color: palevioletred;
+}
+.indianred{
+    border-radius: 10px;
+    background-color: indianred;
+}
+.amarelo{
+    border-radius: 10px;
+    background-color: yellow;
+}
+.marrom{
+    border-radius: 10px;
+    background-color: saddlebrown;
+}
